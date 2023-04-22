@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm GBN 👋</h1>
 
 ## **About me**
-- Self-tauhgt programmer
+- Self-taught programmer
 - Technical Support for Northwood (https://scpslgame.com/)
 - I hate JavaScript
 - Small Youtuber about a silly monster game
