@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm GBN (GBN#2137 on Discord)👋</h1>
+<h1 align="center"> Hi, I'm GBN (_gbn_ on Discord)👋</h1>
 
 ## **About me**
 - Self-taught programmer
