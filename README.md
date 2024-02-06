@@ -2,7 +2,7 @@
 
 ## **About me**
 - Self-taught programmer
-- Technical Support for Northwood (https://scpslgame.com/)
+- Quality Assurance for Northwood (https://scpslgame.com/)
 - I hate JavaScript
 - Small Youtuber about a silly monster game
 
