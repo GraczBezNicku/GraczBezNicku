@@ -2,7 +2,7 @@
 
 ## **About me**
 - Self-taught programmer
-- Quality Assurance & Verification Specialist for Northwood (https://scpslgame.com/)
+- Quality Assurance and Safety & Compliance Specialist for Northwood (https://scpslgame.com/)
 - I hate JavaScript
 - Small Youtuber about a silly monster game
 
